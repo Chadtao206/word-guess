@@ -1,0 +1,19 @@
+
+
+#puzzle li {
+   display:inline;
+   font-size:80px;
+}
+
+.box {
+    color:whitesmoke;
+    height:35px;
+    width:35px;
+    text-align:center;
+
+}
+
+#invis {
+    visibility: hidden;
+    opacity: 0.0;
+}
